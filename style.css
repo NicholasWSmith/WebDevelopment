@@ -1,0 +1,57 @@
+h1{
+	font-size: 2em;
+	background-color: #D80000;
+}
+
+
+
+body{
+	font-family: Verdana;
+	background-image:url(masterChef.jpg);
+}
+
+
+
+p{
+	font-size: 35px;
+}
+
+h2{
+	text-decoration: underline;
+	font-size: 40px;
+
+}
+
+.strokeme
+{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+.boxes 
+{
+	background-color: lightgrey;
+    width: 800px;
+    padding: 10px;
+    border: 5px solid red;
+    margin: 0;
+}
+
+ol { 
+	list-style-type: lower-roman; 
+}
+
+#idSelector{
+	font-style: italic;
+	font-family: "Garamond", "Century Gothic", serif;
+
+}
+
+#secondIDSelector {
+	color: red;
+	font-size: 40px;
+}

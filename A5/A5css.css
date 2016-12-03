@@ -1,0 +1,43 @@
+
+
+.center {
+	margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+.left {
+    position: absolute;
+    left: 0px;
+    width: 300px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+body {
+	 background-image: url("romantic.jpg");
+}
+
+.strokeme
+{
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+h1{
+	font-size: 2em;
+	background-color: #D80000;
+	text-align: center;
+}
+
+form{
+	font-size: 30px;
+}
